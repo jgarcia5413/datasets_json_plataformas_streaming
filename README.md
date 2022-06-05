@@ -9,7 +9,7 @@ Dentro de cada carpeta correspondientea cada plataforma hay 2 archivos JSON.
 En el JSON de créditos (credits.json) se hace referencia al título en cuestión que está en el archivo titles.json
 
 La información se ha extraído de las siguientes fuentes:
- - Dataset de Netflix: https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies\
- - Dataset de Disney+: https://www.kaggle.com/datasets/victorsoeiro/disney-tv-shows-and-movies\
- - Dataset de HBO Max: https://www.kaggle.com/datasets/victorsoeiro/hbo-max-tv-shows-and-movies\
- - Dataset de Amazon Prime Video: https://www.kaggle.com/datasets/victorsoeiro/amazon-prime-tv-shows-and-movies}
+ - Dataset de Netflix: https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies
+ - Dataset de Disney+: https://www.kaggle.com/datasets/victorsoeiro/disney-tv-shows-and-movies
+ - Dataset de HBO Max: https://www.kaggle.com/datasets/victorsoeiro/hbo-max-tv-shows-and-movies
+ - Dataset de Amazon Prime Video: https://www.kaggle.com/datasets/victorsoeiro/amazon-prime-tv-shows-and-movies
